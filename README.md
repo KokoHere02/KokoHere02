@@ -1,16 +1,6 @@
-# Hi, I'm chh 👋
+# Hi, I'm KokoHere02 👋
 
-欢迎来到我的 GitHub 主页！
+🎓 I'm a junior student at **Hainan Tropical Ocean University**  
+💻 Currently learning **Java**, **Go**, and **Frontend Development**  
+🏸 Hobby: Sports,  Badminton
 
-## 🔭 当前项目
-- 项目1
-- 项目2
-
-## 🌱 我在学习
-- Java
-- Spring AI
-- Go
-
-## 📫 联系我
-- 邮箱: example@example.com
-- Blog: https://yourblog.com
